@@ -1,2 +1,4 @@
-# Medieval-Living
-A game about living in medieval times
+# Medieval Progress
+
+### Introduction
+Medieval Progress is an incremental text-base game which can be played in the browser.
